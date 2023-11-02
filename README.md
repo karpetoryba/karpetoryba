@@ -1,23 +1,18 @@
-- Hi, i'm `<your name>`, i'm a french web developer 👋
-- `<explain what do you love. Ex: I love front-end development and i'm interested by back-end development also👨‍💻>`
+- Hi, i'm Karpenko Daria, i'm a french web developer 👋
+- I love front-end development and i'm interested by back-end development also👨‍💻
 - On my GitHub profile, I have school projects and personal projects in different technologies
 
 ## My stats⚡️
 
 Replace `<your-name>` in url by your `github username` if you want to display your Github Stats else remove this section
-<br/>
-<br/>
-![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=your-name&show_icons=true&theme=github_dark&count_private=true&line_height=28.5)
-<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-name&layout=compact&langs_count=12&theme=github_dark&card_width=445)
-<br/>
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ypur-name&layout=compact&langs_count=12&theme=github_dark)
 
-<br>
+![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=karpetoryba&show_icons=true&theme=github_dark&count_private=true&line_height=28.5)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karpetoryba&layout=compact&langs_count=12&theme=github_dark&card_width=445)
+
 
 ## My skills 💻
 
-Add your skills in the list below, if you don't know the name of the badge, you can find it on repository [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
 
 ### Languages
 
@@ -27,11 +22,9 @@ Add your skills in the list below, if you don't know the name of the badge, you 
 ### Frameworks
 
 [![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
-### CMS
 
-[![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://wordpress.org/)
+
 
 ### Version Control
 
@@ -44,6 +37,6 @@ Add your skills in the list below, if you don't know the name of the badge, you 
 
 ## Follow me 👉
 
-Replace `<your-linkedin-url>` by your `linkedin url` and `<your-gmail>` by your `gmail` if you want to display your social media else remove this section <br/>
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Gmail](https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:<your-gmail>)
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daria-karpenko-7227b7281/)
+[![Gmail](https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:karpenkokarpenko24@gmail.com)
