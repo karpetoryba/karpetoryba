@@ -1,10 +1,7 @@
-- Hi, i'm Karpenko Daria, i'm a french web developer 👋
-- I love front-end development and i'm interested by back-end development also👨‍💻
-- On my GitHub profile, I have school projects and personal projects in different technologies
+- Hello there! 👋 I'm an enthusiastic student programmer with a deep passion for coding and technology. In my GitHub profile, you'll discover a range of projects that I've developed during my university coursework and in my personal time.
 
 ## My stats⚡️
 
-Replace `<your-name>` in url by your `github username` if you want to display your Github Stats else remove this section
 
 ![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=karpetoryba&show_icons=true&theme=github_dark&count_private=true&line_height=28.5)
 
